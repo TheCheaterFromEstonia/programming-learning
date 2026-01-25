@@ -1,3 +1,4 @@
+#if statements allow for basic decision-making
 age = int(input("How old are you?: "))
 if age >= 18:
     print("You are an adult.")
